@@ -8,4 +8,4 @@ steps:
   commands:
   - echo hello
   - echo world
-  - docker ps -a
+  - echo hello world
